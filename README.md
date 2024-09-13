@@ -1,4 +1,4 @@
-# project_no_1
-first project of b.tech
+# movie recommendation system using AI/ML
+
 <br>
 Author-Rahul Nayak
